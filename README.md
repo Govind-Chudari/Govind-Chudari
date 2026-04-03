@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Govind+Chudari+👋;Full+Stack+Developer+💻;Agentic+AI+Explorer+🤖;Building+cool+stuff+%26+breaking+it+😅)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Govind+Chudari+👋;Full+Stack+Developer+💻;Agentic+AI+Explorer+🤖)
 
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-svg-download-png-3576478.png" width="350" alt="coding illustration"/>
 
@@ -92,14 +92,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="50" height="50"/>
 </p>
-
----
-
-
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
