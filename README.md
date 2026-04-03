@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Govind+Chudari+👋;Full+Stack+Developer+💻;Agentic+AI+Explorer+🤖;Building+cool+stuff+%26+breaking+it+😅)
 
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-svg-download-png-3576478.png" width="350" alt="coding illustration"/>
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-svg-download-png-3576478.png" width="350" height="250" alt="coding illustration"/>
 
 <br/>
 
@@ -95,15 +95,6 @@
 
 ---
 
-## 📊 Top Languages
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=govind-chudari&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
-</div>
-
----
 
 <div align="center">
 
