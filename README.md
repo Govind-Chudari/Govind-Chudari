@@ -15,17 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Govind Chudari
-role: Full Stack Developer & Agentic AI Explorer
-location: India 🇮🇳
-currently_learning: Everything... because tech doesn't let me rest 🥲
-looking_to_collaborate: Cool projects that might change the world 🌍
-ask_me_about: React, AI, or why my code worked yesterday but not today 💬
-fun_fact: I think I'm funny... my code disagrees 😄
-```
-
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🌱 Currently learning **everything… because tech doesn't let me rest 🥲**
 - 👯 Looking to collaborate on **projects that might actually change the world (or at least look cool on GitHub 😎)**
@@ -105,26 +95,11 @@ fun_fact: I think I'm funny... my code disagrees 😄
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=govind-chudari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=commits,contribs" alt="Govind's GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=govind-chudari&theme=tokyonight&hide_border=true" alt="Govind's Streak" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=govind-chudari&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=govind-chudari&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=govind-chudari&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 </div>
 
